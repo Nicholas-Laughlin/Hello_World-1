@@ -1,13 +1,13 @@
 ## Table of contents
 
-- [PROJECT TITLE](#Project-Title)
+- [THIS IS MY PROJECT](#This-is-my-project)
 - [DESCRIPTION](#Description)
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-## Project Title
+# This is my project
 
 Hello World Sample 
 
@@ -15,7 +15,7 @@ Hello World Sample
 
 Practice using GitHub by creating a sample repository
 
-## How to Run Program 
+### How to Run Program 
 
 Explain here how you would run the program and what files need to be available. 
 ```text
@@ -28,7 +28,7 @@ Hello_World/
    
 ```
 
-## Files Used 
+#### Files Used 
 
 - Did you use any datafiles?  
 - List filenames
@@ -39,7 +39,7 @@ Hello_World/
 [Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
 
 
-## Additional Documentation
+###### Additional Documentation
 
 No additional documentation at this time 
 
